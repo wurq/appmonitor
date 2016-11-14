@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">monitorapp</string>
+    <string name="com.wurq.dex.monitorapp_next">Next question</string>
+    <string name="com.wurq.dex.monitorapp_previous">Previous question</string>
+    <string name="com.wurq.dex.monitorapp_logo">By Mixpanel</string>
+    <string name="com.wurq.dex.monitorapp_exit">Exit</string>
+    <string name="com.wurq.dex.monitorapp_close">Close</string>
+    <string name="com.wurq.dex.monitorapp_done">Done</string>
+    <string name="com.wurq.dex.monitorapp_notification_image">Image not displayed</string>
+    <string name="com.wurq.dex.monitorapp_survey_prompt_dialog_title">We\'d love your feedback!</string>
+    <string name="com.wurq.dex.monitorapp_survey_prompt_dialog_message">Mind taking a quick survey?</string>
+    <string name="com.wurq.dex.monitorapp_sure">Sure</string>
+    <string name="com.wurq.dex.monitorapp_no_thanks">No, Thanks</string>
 </resources>

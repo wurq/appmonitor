@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com.wurq.dex.monitorapp_next">Siguiente pregunta</string>
+    <string name="com.wurq.dex.monitorapp_previous">Pregunta anterior</string>
+    <string name="com.wurq.dex.monitorapp_logo">By Mixpanel</string>
+    <string name="com.wurq.dex.monitorapp_exit">Salir</string>
+    <string name="com.wurq.dex.monitorapp_close">Cerrar</string>
+    <string name="com.wurq.dex.monitorapp_done">Hecho</string>
+    <string name="com.wurq.dex.monitorapp_notification_image">Imagen no mostrada</string>
+    <string name="com.wurq.dex.monitorapp_survey_prompt_dialog_title">Nos gustaría saber tu opinión</string>
+    <string name="com.wurq.dex.monitorapp_survey_prompt_dialog_message">¿Podrías contestar una breve encuesta?</string>
+    <string name="com.wurq.dex.monitorapp_sure">Claro</string>
+    <string name="com.wurq.dex.monitorapp_no_thanks">No, gracias</string>
+</resources>
